@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+}
+.CustomerPage {
+	background-image: url("https://img.freepik.com/free-vector/paper-style-smooth-background_23-2148962684.jpg?size=626&ext=jpg");
+	background-size: cover;
+	/* background-attachement: fixed; */
+	height: 150vh;
+}
+.transactionHistory{
+	background-image: url("https://img.freepik.com/free-vector/paper-style-smooth-background_23-2148962684.jpg?size=626&ext=jpg");
+    background-size: cover;
+	/* background-attachement: fixed; */
+	height: 100vh;
+	
+
+}
+.showData{
+	background-image: url("https://img.freepik.com/free-vector/paper-style-smooth-background_23-2148962684.jpg?size=626&ext=jpg");
+	background-size: cover;
+	/* background-attachement: fixed; */
+	height: 100vh;
+}
+.ThankYou{
+    background-image:url('https://designshack.net/wp-content/uploads/geo-background.jpg');
+    background-size:cover;
+    height: 100vh;
+}
+
+.Homepage {
+	background-image: url("https://stebank.com/wp-content/uploads/AdobeStock_206098307.jpg");
+	background-size: cover;
+	/* background-attachement: fixed; */
+	height: 100vh;
+}
+.content {
+	background: black;
+	width: 50%;
+	padding: 40px;
+	margin: 100px auto;
+}
+.button {
+	border: none;
+	color: white;
+	background-color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
